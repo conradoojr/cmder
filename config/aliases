@@ -1,0 +1,13 @@
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --show-control-chars -F --color $*
+ll = ls --show-control-chars -F --color $* -la
+pwd=cd
+clear=cls
+history=cat %CMDER_ROOT%\config\.history
+unalias=alias /d $1
+which=where $*
+
+.p = cd c:\Users\cjunior\projetos\
+dev-server=cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant up
+vssh = cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant ssh
