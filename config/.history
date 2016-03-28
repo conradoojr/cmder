@@ -796,3 +796,428 @@ git status
 cd ..
 cd carclick-dev-environment\
 vssh
+git commit -m "Display monitor elasticsearch added and added sync all of zerokm (catalog)"
+git commit -m "Rename variables"
+git status
+git commit -m "Moved css inline to style.css"
+git push origin sync_zerokm_with_elasticsearch_direct_php 
+ssh carclick@homologacao.carclick.com.br
+sshpass
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+ssh carclick@homologacao.carclick.com.br
+alias
+ssh root@homologacao.carclick.com.br
+ping homologacao.carclick.com.br
+ssh carclick@104.41.63.1
+ssh root@10.9.2.4
+ssh carclick@10.9.2.4
+ssh carclick@homologacao.carclick.com.br
+cd carclick-dev-environment\
+vssh
+dev-server
+cd carclick-administrador\
+git branch
+git checkout development 
+git pull origin development 
+git pull
+git branch 3605_crud_manager_consortium
+git checkout 3605_crud_manager_consortium 
+curl "http://localhost:8080/consortium-manager/save-send-email-method?debug" -H "Cookie: __utma=111872281.1864878382.1454347147.1454598178.1455105294.13; __utmz=111872281.1454347147.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=uc295cs784toof7jh6iel6qbd0" -H "Origin: http://localhost:8080" -H "Accept-Encoding: gzip, deflate" -H "Accept-Language: pt-BR,pt;q=0.8" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36" -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" -H "Accept: application/json, text/javascript, */*; q=0.01" -H "Referer: http://localhost:8080/consortium-manager/clientes" -H "X-Requested-With: XMLHttpRequest" -H "Connection: keep-alive" --data "_id=532afbf56ee011a9bfb07443&send_method=1" --compressed
+git commit -m "Module for manage consortium (plugin) added"
+git diff  module/Message/src/Message/Controller/MessageController.php
+git config core.autocrlf true
+git config core.autocrlf false
+git diff
+git stauts
+git diff module/Message/src/Message/Controller/MessageController.php
+git push origin 26
+git push origin 3605_crud_manager_consortium 
+e.
+cd ..
+cd Downloads\
+cd cmder\
+git checkout .
+git status
+git init
+git config --global core.autocrlf false
+git origin
+git add --all
+git remote add origin https://github.com/conradoojr/cmder.git
+git commit -m "First commit"
+git push -u origin master
+dev-server
+git push -u origin master
+alias
+alias /?
+alias reload
+alias /reload
+hml
+ssh /?
+ssh --help
+ls
+ls -la
+hml
+ssh /?
+ssh --help
+ls
+ls -la
+cls
+curl "http://localhost:3000/plugin/consorcio/5409a3784fb9a47e6f8b4574/all?m=16&success=true&success=true" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -H "Referer: http://localhost:3000/plugin/consorcio/5409a3784fb9a47e6f8b4574/all?m=16&success=true&success=true" -H "Origin: http://localhost:3000" -H "Upgrade-Insecure-Requests: 1" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36" -H "Content-Type: application/x-www-form-urlencoded" --data "website=5409a3784fb9a47e6f8b4574&option=60_integral&model=MASTER+2.5+MINIBUS+16+LUGARES&model_code=29&manufacture=RENAULT&manufacture_code=16&factory_code=0012&plan=ESPECIAIS&credit=129540.00&plots=-&dealer=541832e94fb9a46d6f8b45e4&name=Conrado+Oliveira+Junior&email=conradoojr"%"40outlook.com&ddd=11&telephone=11976736585&ramal=&message=iopioioioiooio" --compressed
+ipconfig
+ipconfig
+.po
+.p
+cd fp
+cd ftp\
+ll
+cd ..
+cd carclick-
+cd carclick-dev-environment\
+vagrant ssh
+vagrant up
+vagrant reload --provision
+vagrant ssh
+vagrant reload --provision
+.p
+cd carclick-dev-environment\
+vagrant halt
+vagrant up
+vssh
+vagrant ssh
+vagrant up
+vagrant reload --provision
+vagrant ssh
+vagrant reload --provision
+cd carclick-dev-environment\
+vagrant halt
+vagrant up
+vssh
+.p
+cd ftp\
+cd zamora.com.br\
+git branch 3837_responsive_layout
+git branch
+'git status --porcelain
+git status --porcelain
+del .git\index
+git reset
+ll
+git status
+git checkout master 
+git checkout 3837_responsive_layout 
+ipconfig
+vagrant halt
+vssh
+.p
+cd carclick-dev-environment\
+vagrant up
+vagrant reload
+vagrant ssh
+dev-server
+vssh
+dev-server
+vssh
+vagrant reloa
+dev-server
+vssh
+ssh carclick@10.9.2.4
+ping http://www.conradoojr.com.br/
+vssh
+dev-server
+vssh
+vagrant reloa
+dev-server
+vssh
+ssh carclick@10.9.2.4
+ping http://www.conradoojr.com.br/
+.p
+cd "ftp\novabahiaveiculos.com.br
+git clean -f
+git clean -f -n
+git clean -fd
+git pull origin master
+git checkout .
+git status
+git pull
+git branch responsive_layout
+git branch
+git branch -d responsive_layout
+git branch 3984_responsive_layout
+git checkout 3984_responsive_layout 
+git add --all
+git commit -m "Finished Header, Footer and Home Page"
+gl
+git commit -am "Alter logos in footer"
+git push origin 3984_responsive_layout 
+exit
+dev-server
+vssh
+exit
+dev-server
+vssh
+exit
+.p
+cd "ftp\novabahiaveiculos.com.br
+git commit -am "Page 'como-chegar' finalized"
+git commit -am "Page 'trabalhe-conosco' finalized"
+wget http://www.uol.com.br
+wget http://zamora.homologacao.carclick.com.br:8387/
+git commit -am "Page 'novos' finalized"
+git commit -am "vendas-especiais' finalized"
+git commit -am "vendas-corporativas' finalized"
+git commit -am "finalized layout responsive"
+git status
+em index.html.1 
+rm index.html
+rm index.html.1 
+exit
+exit
+ssh cjunior@10.7.0.65
+exit
+dev-server
+vssh
+exit
+cd "ftp\novabahiaveiculos.com.br
+git commit -am "Page 'como-chegar' finalized"
+git commit -am "Page 'trabalhe-conosco' finalized"
+wget http://www.uol.com.br
+wget http://zamora.homologacao.carclick.com.br:8387/
+git commit -am "Page 'novos' finalized"
+git commit -am "vendas-especiais' finalized"
+git commit -am "vendas-corporativas' finalized"
+git commit -am "finalized layout responsive"
+em index.html.1 
+rm index.html
+rm index.html.1 
+exit
+.p
+cd ftp\novabahiaveiculos.com.br\
+git commit -am "
+git stauts
+git status
+git add --all
+git commit -m "Adjust 'test-drive' page"
+git commit -am "Adjust 'test-drive' page"
+cd ..
+cd novabahiaveiculos.com.br\
+git commit -am "Detail adjustment"
+git push origin 3984_responsive_layout 
+ipconfig
+exit
+exit
+cls
+clear
+ssh cjunior@10.7.0.65
+dev-server
+vssh
+dev-server
+vssh
+git commit -am "vendas-corporativas' finalized"
+git commit -am "finalized layout responsive"
+em index.html.1 
+rm index.html
+rm index.html.1 
+exit
+cd ftp\novabahiaveiculos.com.br\
+git commit -am "
+git stauts
+git commit -m "Adjust 'test-drive' page"
+git commit -am "Adjust 'test-drive' page"
+git commit -am "Detail adjustment"
+ipconfig
+exit
+exit
+cls
+clear
+dev-server
+vssh
+ssh cjunior@10.7.0.65
+.p
+cd ftp\
+cd database_dump\
+git checkout .
+git statud
+cd zamora.com.br\
+git push origin 3837_responsive_layout 
+cd novabahiaveiculos.com.br\
+git commit -m "Added whatsapp button"
+git push origin 3984_responsive_layout 
+git status
+git add --all
+git commit -m "Convert css to sass"
+cd carclick-portal\
+npm install
+cd node_modules\
+cd ..
+ll
+cls
+clear
+dev-server
+vssh
+ssh cjunior@10.7.0.65
+cd ftp\
+cd database_dump\
+git checkout .
+git statud
+cd zamora.com.br\
+git push origin 3837_responsive_layout 
+cd novabahiaveiculos.com.br\
+git commit -m "Added whatsapp button"
+git push origin 3984_responsive_layout 
+git commit -m "Convert css to sass"
+npm install
+cd node_modules\
+.p
+cd carclick-portal\
+cd views\layout\
+git checkout default.jade 
+git commit -m "Home responsive done"
+git commit -m "Added separator in header"
+git push origin 4067_home_responsive 
+git commit -m "Align button home"
+cd ..
+kk
+ll
+git checkout app.js 
+git branch
+git checkout master
+git checkout helpers\popularTerms.js 
+git checkout routes\index.js 
+git add --all
+git status
+git chekcout package.json 
+git checkout package.json 
+dev-server
+vssh
+vssh
+git checkout routes\index.js 
+git chekcout package.json 
+git checkout package.json 
+dev-server
+vssh
+vssh
+.p
+cd ftp\zamora.com.br\
+git pull
+git checkout 3837_responsive_layout 
+git pull origin 3837_responsive_layout 
+git branch
+cd ..
+cd carclick-portal\
+git add --all
+git commit -m "autocomplete finished"
+ll
+git status
+git checkout master
+git pull origin master
+git branch "4179_maintenance_zamora_site"
+git checkout 4179_maintenance_zamora_site 
+vssh
+vssh[
+vssh
+git chekcout package.json 
+git checkout package.json 
+vssh
+dev-server
+vssh
+ssh cjunior@homologacao.carclick.com.br
+ssh cjunior@10.7.0.65
+vssh
+ll
+git checkout master
+git pull origin master
+git branch "4179_maintenance_zamora_site"
+git checkout 4179_maintenance_zamora_site 
+vssh
+vssh[
+vssh
+git chekcout package.json 
+git checkout package.json 
+vssh
+dev-server
+vssh
+ssh cjunior@homologacao.carclick.com.br
+ssh cjunior@10.7.0.65
+vssh
+node -v
+npm install jade --global
+.p
+cd carclick-portal\
+git branch
+git commit -m "change to branch 3605_crud_manager_consortium"
+git checkout 3605_crud_manager_consortium 
+git commit -m "files do visual studio removed"
+git push origin 3605_crud_manager_consortium 
+git checkout restructure_plugin_consortium 
+git merge 3605_crud_manager_consortium 
+git commit -m "Layout mobile and desktop done"
+git push origin restu
+git add --al
+git status
+git add --all
+git commit -m "Sort table on header click done"
+git push origin restructure_plugin_consortium 
+exit
+vssh
+dev-server
+vssh
+git merge 3605_crud_manager_consortium 
+git commit -m "Layout mobile and desktop done"
+git push origin restu
+git add --al
+git add --all
+git commit -m "Sort table on header click done"
+vssh
+dev-server
+vssh
+cd projetos\
+cd carclick-portal\
+git commit -am "price filter initial implementation"
+git pull origin restructure_plugin_consortium 
+node app.js 
+ls public\assets\images\
+cd ..\carclick-portal\
+cd ..\carclick-administrador\
+ls
+git diff
+git status
+git commit -am "color patterns"
+git push origin restructure_plugin_consortium 
+exit
+cd projetos\
+ls
+cd carclick-dev-environment\
+vagrant up
+vagrant ssh
+exit
+vssh
+vagrant ssh
+exit
+cd projetos\
+ls
+cd carclick-dev-environment\
+vagrant up
+vagrant ssh
+exit
+cd ftp\altavw.com.br\
+git init
+git remote add origin git@bitbucket.org:disaltec/alta-veiculos.git
+git commit -m "First Commit"
+vssh
+mklink 
+.p
+git clone https://github.com/conradoojr/sublime-settings.git
+cd sublime-settings\
+echo "# sublime-settings" >> README.md
+ll
+git add --all
+git commit -m "First commit"
+git push -u origin master
+cd "%appdata%\Sublime Text 3\Packages\"
+mklink /D User "c:\Users\cjunior\projetos\sublime-settings\User"

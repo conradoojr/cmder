@@ -7,6 +7,10 @@ clear=cls
 history=cat %CMDER_ROOT%\config\.history
 unalias=alias /d $1
 which=where $*
+gs=git status $*
+aliases="C:\Program Files\Sublime Text 3\sublime_text.exe" C:\cmder\config\aliases
+hosts="C:\Program Files\Sublime Text 3\sublime_text.exe" $* C:\Windows\System32\drivers\etc\hosts
+
 
 .p = cd c:\Users\cjunior\projetos\
 dev-server=cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant up
