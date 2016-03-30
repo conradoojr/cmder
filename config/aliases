@@ -1,17 +1,21 @@
-e.=explorer .
-gl=git log --oneline --all --graph --decorate  $*
-ls=ls --show-control-chars -F --color $*
-ll = ls --show-control-chars -F --color $* -la
-pwd=cd
-clear=cls
-history=cat %CMDER_ROOT%\config\.history
-unalias=alias /d $1
-which=where $*
-gs=git status $*
-aliases="C:\Program Files\Sublime Text 3\sublime_text.exe" C:\cmder\config\aliases
-hosts="C:\Program Files\Sublime Text 3\sublime_text.exe" $* C:\Windows\System32\drivers\etc\hosts
+e.          =   explorer .
+gl          =   git log --oneline --all --graph --decorate  $*
+ls          =   ls --show-control-chars -F --color $*
+ll          =    ls --show-control-chars -F --color $* -la
+pwd         =   cd
+clear       =   cls
+history     =   cat %CMDER_ROOT%\config\.history
+unalias     =   alias /d $1
+which       =   where $*
+
+subl        =   "C:\Program Files\Sublime Text 3\sublime_text.exe" $*
+aliases     =   "C:\Program Files\Sublime Text 3\sublime_text.exe" C:\Users\cjunior\Downloads\cmder\config
+hosts       =   "C:\Program Files\Sublime Text 3\sublime_text.exe" $* C:\Windows\System32\drivers\etc\hosts
+
+gb          =   git branch $*
+gs          =   git status $*
 
 
-.p = cd c:\Users\cjunior\projetos\
-dev-server=cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant up
-vssh = cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant ssh
+.p          =   cd c:\Users\cjunior\projetos\
+dev-server  =   cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant up
+vssh        =   cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant ssh

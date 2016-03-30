@@ -1221,3 +1221,183 @@ git commit -m "First commit"
 git push -u origin master
 cd "%appdata%\Sublime Text 3\Packages\"
 mklink /D User "c:\Users\cjunior\projetos\sublime-settings\User"
+vagrant ssh
+exit
+vssh
+vagrant ssh
+exit
+cd projetos\
+ls
+cd carclick-dev-environment\
+vagrant up
+vagrant ssh
+exit
+cd ftp\altavw.com.br\
+git init
+git remote add origin git@bitbucket.org:disaltec/alta-veiculos.git
+git commit -m "First Commit"
+vssh
+mklink 
+git clone https://github.com/conradoojr/sublime-settings.git
+cd sublime-settings\
+echo "# sublime-settings" >> README.md
+ll
+git commit -m "First commit"
+git push -u origin master
+cd "%appdata%\Sublime Text 3\Packages\"
+mklink /D User "c:\Users\cjunior\projetos\sublime-settings\User"
+checkout .
+git checkout .
+git staut
+git pull 
+npm install image-size --save
+npm uninstall image-size
+npm install request-image-size --save
+git commit -m "Pause for adjust input images on panel"
+git chckout 417
+git checkout 4179_maintenance_zamora_site 
+cd ..
+cd carclick-
+git branch -d 3605_crud_manager_consortium 
+git branch -d 4179_maintenance_zamora_site 
+git checkout restructure_plugin_consortium 
+git checkout development 
+git pull
+git branch -d restructure_plugin_consortium 
+git branch -D restructure_plugin_consortium 
+git branch -D 3605_crud_manager_consortium 
+git checkout 4067_home_responsive 
+git branch
+git checkout 4108_home_randon_offers
+git log
+cler
+clear
+gis tatus
+git commmiit
+cd c:\Users\cjunior\Downloads\cmder\
+git status
+git add --all
+git commit -m "Add aliases"
+git push origin master
+.p
+cd carclick-portal\
+gb
+.p
+cd carclick-p
+cd carclick-portal\
+gb
+cd ..
+cd carclick-administrador\
+gs
+subl module/Inventory/src/Inventory/Gateway/MongoDb/Cars.php
+aliases
+aliases
+"5638e99bd1a80607498b4741"^
+"Content-Disposition: form-data; name=""images[]""; filename=""carro-simples.jpg"""^
+"------WebKitFormBoundarykIKUqG8rp9dGVzKu--"^
+curl "http://localhost:8080/inventory/upload/5638e99bd1a80607498b4741" -H "Cookie: connect.sid=s"%"3Ar7BWzGxxtfS6N8yF15WMMAVa.vTIxDmNQjn2Hfqw8KdQNiFGWVbpAUggC0lxGaoWFuLw; RlocalTag=rl_tag"%"3D0; PHPSESSID=3l3ssvdhrk1785i85jq2j968a7; gsScrollPos=; __utmt=1; __utma=111872281.655839536.1457464616.1459180959.1459186262.29; __utmb=111872281.1.10.1459186262; __utmc=111872281; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)" -H "Origin: http://localhost:8080" -H "Accept-Encoding: gzip, deflate" -H "Accept-Language: pt-BR,pt;q=0.8" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36" -H "Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykIKUqG8rp9dGVzKu" -H "Accept: */*" -H "Referer: http://localhost:8080/inventory/index" -H "X-Requested-With: XMLHttpRequest" -H "Connection: keep-alive" --data-binary "------WebKitFormBoundarykIKUqG8rp9dGVzKu"^
+curl 'http://localhost:8080/inventory/upload/5638e99bd1a80607498b4741' -H 'Cookie: connect.sid=s%3Ar7BWzGxxtfS6N8yF15WMMAVa.vTIxDmNQjn2Hfqw8KdQNiFGWVbpAUggC0lxGaoWFuLw; RlocalTag=rl_tag%3D0; PHPSESSID=3l3ssvdhrk1785i85jq2j968a7; gsScrollPos=; __utmt=1; __utma=111872281.655839536.1457464616.1459180959.1459186262.29; __utmb=111872281.1.10.1459186262; __utmc=111872281; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)' -H 'Origin: http://localhost:8080' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: pt-BR,pt;q=0.8' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36' -H 'Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykIKUqG8rp9dGVzKu' -H 'Accept: */*' -H 'Referer: http://localhost:8080/inventory/index' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --data-binary $'------WebKitFormBoundarykIKUqG8rp9dGVzKu\r\nContent-Disposition: form-data; name="_id"\r\n\r\n5638e99bd1a80607498b4741\r\n------WebKitFormBoundarykIKUqG8rp9dGVzKu\r\nContent-Disposition: form-data; name="images[]"; filename="carro-simples.jpg"\r\nContent-Type: image/jpeg\r\n\r\n\r\n------WebKitFormBoundarykIKUqG8rp9dGVzKu--\r\n' --compressed
+npm install request-image-size --save
+git commit -m "Pause for adjust input images on panel"
+git chckout 417
+git checkout 4179_maintenance_zamora_site 
+cd ..
+cd carclick-
+git branch -d 4179_maintenance_zamora_site 
+git checkout restructure_plugin_consortium 
+git pull
+git branch -D restructure_plugin_consortium 
+git branch -D 3605_crud_manager_consortium 
+git checkout 4067_home_responsive 
+git checkout 4108_home_randon_offers
+cler
+clear
+gis tatus
+git commmiit
+cd c:\Users\cjunior\Downloads\cmder\
+git commit -m "Add aliases"
+git push origin master
+.p
+cd carclick-portal\
+gb
+cd carclick-p
+aliases
+.p
+cd carclick-portal\
+cd ..
+cd carclick-administrador\
+subl module/Inventory/src/Inventory/Gateway/MongoDb/Cars.php
+gs
+git commit -m "Added create_date field on elasticSearch"
+git push origin elasticsearch_autocomplete 
+git checkout development 
+git fetch
+git branch -d 3605_crud_manager_consortium 
+git branch -d 3611_send_email_rdstation 
+git branch -d restructure_plugin_consortium 
+gb
+git branch elasticsearch.log 
+git branch
+git branch -d elasticsearch.log 
+git branch car_images_width_height
+git branch -d car_images_width_height
+git branch -d car_images_add_attributes
+git branch car_images_add_attributes
+git chekcout carclick-administrador.sublime-
+git checkout car_images_add_attributes 
+git merge elasticsearch_autocomplete 
+git pull origin development 
+pear -v
+pear install PHP_CodeSniffer
+phpcs -i
+gl
+git add --all
+git d
+la -ls
+la -l
+ll
+ls -la
+git log
+git commit -m "Test pre-commit hook"
+git status
+git commit -am "Test pre-commit hook"
+vssh
+dev-server
+vssh
+ssh cjunior@10.0.65.7
+ssh cjunior@10.7.65.0
+ssh cjunior@10.7.0..65
+ssh cjunior@10.7.0.65
+vssh
+vagrant halt
+git commit -am "Test pre-commit hook"
+vssh
+dev-server
+vssh
+ssh cjunior@10.0.65.7
+ssh cjunior@10.7.65.0
+ssh cjunior@10.7.0..65
+ssh cjunior@10.7.0.65
+vssh
+vagrant halt
+.p
+cd carclick-administrador\
+git status
+git add --al
+git add --all
+ls -la
+gs
+git add-symlink
+git add-symlink public\media 
+git -v
+git -version
+git -help
+git --v
+git --version
+php -i
+php --help
+cd c:\Users\cjunior\php7\
+php restart
+php -m
+php -S localhost:8000 i.php 
+vssh
