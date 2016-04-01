@@ -1401,3 +1401,113 @@ php restart
 php -m
 php -S localhost:8000 i.php 
 vssh
+.p
+cd testes\soap\
+php -S localhost:99
+ssh cjunior@10.7.0.65
+dev-server
+vsh
+vssh
+ssh cjunior@10.7.65.0
+ssh cjunior@10.7.0..65
+ssh cjunior@10.7.0.65
+vssh
+vagrant halt
+cd carclick-administrador\
+git add --al
+ls -la
+gs
+git add-symlink
+git add-symlink public\media 
+git -v
+git -version
+git -help
+git --v
+git --version
+php -i
+php --help
+cd c:\Users\cjunior\php7\
+php restart
+php -m
+php -S localhost:8000 i.php 
+.p
+cd sublime-settings\
+em
+git commit -m "for push"
+git pull origin master
+git add -f User/Color Highlighter/ColorPicker/ColorPicker_win.exe
+git add -f "User/Color Highlighter/ColorPicker/ColorPicker_win.exe"
+git commit -m "Force add exe file
+git push origin master
+git pull
+e.
+git add --all
+git commit -m "Test merge"
+git push
+git status
+cd ..
+cd testes\soap\
+php tester.php 
+php -S .
+php -S
+php-config 
+php -S localhost:8888
+vssh
+git -version
+git -help
+git --v
+git --version
+php -i
+php --help
+cd c:\Users\cjunior\php7\
+php restart
+php -m
+php -S localhost:8000 i.php 
+cd sublime-settings\
+em
+git commit -m "for push"
+git pull origin master
+git add -f User/Color Highlighter/ColorPicker/ColorPicker_win.exe
+git add -f "User/Color Highlighter/ColorPicker/ColorPicker_win.exe"
+git commit -m "Force add exe file
+git push origin master
+git pull
+git commit -m "Test merge"
+git push
+cd testes\soap\
+php tester.php 
+php -S .
+php -S
+php-config 
+php -S localhost:8888
+vssh
+.p
+cd carclick-portal\
+git rm -r bin
+git commit -m "Rules for show offers done"
+e.
+git push origin 4108_home_randon_offers 
+cd ..
+cd carclick-administrador\
+git loh
+git log
+git add module
+gl
+git commit -m "Integration of save thumbnail on mongodb done"
+git commit -am "Robo for add field on image document on car"
+git push origin car_images_add_attributes 
+gis tatus
+gs]
+git add --all
+git add public/teste-atalho.lnk
+git rm public/teste-atalho.lnk
+git rm -f public/teste-atalho.lnk
+git status
+git ls-files -s | awk '/120000/{print $4}',
+git ls-files -s | awk '/120000/{print $4}
+git ls-files -s | awk '/120000/{print $4}''
+git ls-files -s | awk '/120000/{print $4}'
+git ls-files -s
+gs
+dev-server
+vssh
