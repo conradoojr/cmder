@@ -1511,3 +1511,282 @@ git ls-files -s
 gs
 dev-server
 vssh
+git push origin car_images_add_attributes 
+gis tatus
+gs]
+git add public/teste-atalho.lnk
+git rm public/teste-atalho.lnk
+git rm -f public/teste-atalho.lnk
+git ls-files -s | awk '/120000/{print $4}',
+git ls-files -s | awk '/120000/{print $4}
+git ls-files -s | awk '/120000/{print $4}''
+git ls-files -s | awk '/120000/{print $4}'
+git ls-files -s
+dev-server
+vssh
+.p
+cd sublime-settings\
+git remove User/Color Highlighter/themes/Material-Theme-Darker.tmTheme
+git help rm
+git commit -m "Add files in gitignore"
+gs
+ll
+cd ..
+cd Downloads\
+cd cmder\
+e.
+git status
+git add --all
+git commit -m "Add gitignore"
+git push origin master
+vssh
+vssh
+git rm -f public/teste-atalho.lnk
+git ls-files -s | awk '/120000/{print $4}',
+git ls-files -s | awk '/120000/{print $4}
+git ls-files -s | awk '/120000/{print $4}''
+git ls-files -s | awk '/120000/{print $4}'
+git ls-files -s
+dev-server
+vssh
+cd sublime-settings\
+git remove User/Color Highlighter/themes/Material-Theme-Darker.tmTheme
+git help rm
+git commit -m "Add files in gitignore"
+gs
+ll
+cd Downloads\
+cd cmder\
+git add --all
+git commit -m "Add gitignore"
+git push origin master
+vssh
+vssh
+curl
+wget
+wget http://uol.com.br
+.p
+cd carclick-app-anuncios\
+cd carclick-app-adm\
+git fetch origin api
+cd carclick-chat-server\
+git fetch
+git branc
+git checkout api
+git pull origin api
+composer install
+cd ..\carclick-app-anuncios\
+git status
+git pull origin master
+cd ..
+cd carclick-administrador\
+ls -la
+e.
+vssh
+dev-server
+vssh[
+vssh
+dev-server
+vssh
+exit
+vssh
+exit
+vssh
+curl "http://localhost:8100/api/api/car/?debug&page=1" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer b1d5c84eb90189675c913a89a1fc869faa60a1a6" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8100/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self?debug" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+exit
+vssh
+vssh
+dev-server
+vssh
+exit
+vssh
+exit
+vssh
+curl "http://localhost:8100/api/api/car/?debug&page=1" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer b1d5c84eb90189675c913a89a1fc869faa60a1a6" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8100/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self?debug" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+exit
+.p
+ll
+git commit -m "pause upload new version carclick home"
+git add --all
+git commit -am "pause upload new version carclick home"
+git checkout development 
+git pull origin development 
+git checkout car_images_add_attributes 
+git merge development 
+git commit -am "Resolving conflits"
+git commit -am "change location config for production"
+cd carclick-a
+cd carclick-portal\
+cd ..
+cd carclick-administrador\
+git pull origin car_images_add_attributes 
+git status
+git commit -am "Verify car is valid"
+git commit -am "Remove break"
+git push origin car_images_add_attributes 
+git checkout api 
+vssh
+vssh
+dev-server
+vssh
+vssh
+exit
+vssh
+vssh
+dev-server
+vssh
+exit
+vssh
+exit
+vssh
+curl "http://localhost:8100/api/api/car/?debug&page=1" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer b1d5c84eb90189675c913a89a1fc869faa60a1a6" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8100/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+curl "http://localhost:8080/api/api/user/self?debug" -H "Cookie: __utma=111872281.655839536.1457464616.1459789900.1459799446.47; __utmz=111872281.1457464616.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=qn636hveuh6g10ntv9plnkosa5" -H "Accept-Encoding: gzip, deflate, sdch" -H "Accept-Language: pt-BR,pt;q=0.8" -H "Authorization: Bearer 5f7a3a076396c962142076efcf898fe18e90a147" -H "Accept: application/json" -H "Referer: http://localhost:8100/?restart=631102" -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36" -H "Connection: keep-alive" --compressed
+exit
+git commit -m "pause upload new version carclick home"
+git commit -am "pause upload new version carclick home"
+git checkout development 
+git pull origin development 
+git checkout car_images_add_attributes 
+git merge development 
+git commit -am "Resolving conflits"
+git commit -am "change location config for production"
+cd carclick-portal\
+git pull origin car_images_add_attributes 
+git commit -am "Verify car is valid"
+git commit -am "Remove break"
+git push origin car_images_add_attributes 
+git checkout api 
+vssh
+vssh
+dev-server
+vssh
+cd carclick-a
+cd carclick-administrador\
+git branch
+git pull origin api
+cd carclick-app-anuncios\
+git commit -m "bussiness rules in chat with fixed user done"
+cd carclick-app-adm\
+sublime www\js\services\users.js 
+subl www\js\services\users.js 
+git add --all
+git commit -m "bussiness rules in chat"
+cd ..
+cd carclick-chat-server\
+git status
+subl modules\connect.js 
+git commit -am "bussiness rules in chat"
+.p
+cd android-sdk-windows\
+ll
+cd platform-tools\
+abd
+adb
+adb devices
+dev-server
+vssh
+vssh
+vssh
+dev-server
+vssh
+vssh
+vssh
+cd carclick-chat-server\
+subl modules\connect.js 
+git commit -am "bussiness rules in chat"
+cd android-sdk-windows\
+cd platform-tools\
+abd
+adb
+adb devices
+dev-server
+vssh
+vssh
+vssh
+dev-server
+vssh
+vssh
+vssh
+.p
+cd carclick-portal\
+git chekcout .
+git checkout .
+git branch
+git pull origin development 
+git branch task_4228_adjust_bugs
+git checkout task_4228_adjust_bugs 
+git commit -m "Adjusted colors and bugs"
+git push origin task_4228_adjust_bugs 
+cd ftp\pos-venda\
+git remote add origin git@bitbucket.org:disaltec/pos-venda.git
+git commit -m "First Commit"
+git push orgin master
+git push origin master
+cd ..
+cd pampaveiculos.com.br\
+ll
+git init
+git remote add origin git@bitbucket.org:disaltec/pampa-veiculos.git
+git status
+git add --all
+git commit -m "First commit"
+git push -u origin master
+git submodule add git remote add origin git@bitbucket.org:disaltec/pos-venda.git post-venda
+git submodule add git remote add origin https://conradoojr@bitbucket.org/disaltec/pos-venda.git post-venda
+git submodule add https://conradoojr@bitbucket.org/disaltec/pos-venda.git pos-venda
+.p
+cd carclick-portal\
+cd .
+cd carclick-portal\ad
+cd ..
+cd carclick-administrador\
+git statu
+git status
+git chekcout dev
+git checkout development 
+ssh cjunior@10.0.7.65
+ssh cjunior@10.7.0.65
+vssh
+vssh
+vssh
+dev-serve
+dev-server
+vagrant --help
+vagrant reload
+vagrant up
+vssh
+vagrant halt
+git push orgin master
+cd pampaveiculos.com.br\
+git init
+git remote add origin git@bitbucket.org:disaltec/pampa-veiculos.git
+git commit -m "First commit"
+git push -u origin master
+git submodule add git remote add origin git@bitbucket.org:disaltec/pos-venda.git post-venda
+git submodule add git remote add origin https://conradoojr@bitbucket.org/disaltec/pos-venda.git post-venda
+git submodule add https://conradoojr@bitbucket.org/disaltec/pos-venda.git pos-venda
+.p
+cd ftp\pampaveiculos.com.br\
+git chekcout .
+git checkout .
+git clone git@bitbucket.org:disaltec/pos-venda.git
+git clone git@bitbucket.org:disaltec/pampa-veiculos.git
+ll
+git submodule add git@bitbucket.org:disaltec/pos-venda.git pos-venda
+git rm homologacao
+git add --all
+git commit -m "Added submodule pos-venda"
+git push origin master
+cd pos-venda\
+git status
+ssh cjunior@10.7.0.65
+cd ..
+cd carclick-administrador\
