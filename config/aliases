@@ -9,13 +9,7 @@ unalias     =   alias /d $1
 which       =   where $*
 
 subl        =   "C:\Program Files\Sublime Text 3\sublime_text.exe" $*
-aliases     =   "C:\Program Files\Sublime Text 3\sublime_text.exe" C:\Users\cjunior\Downloads\cmder\config
-hosts       =   "C:\Program Files\Sublime Text 3\sublime_text.exe" $* C:\Windows\System32\drivers\etc\hosts
+cdtim       =  cd c:\tim\
 
 gb          =   git branch $*
 gs          =   git status $*
-
-
-.p          =   cd c:\Users\cjunior\projetos\
-dev-server  =   cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant up
-vssh        =   cd C:\Users\cjunior\projetos\carclick-dev-environment && vagrant ssh
