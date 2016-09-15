@@ -1,3 +1,3 @@
 # Cmder
 
-My configurations for [CMDER](https://github.com/cmderdev/cmder/releases/)
+My configurations for [CMDER](https://github.com/cmderdev/cmder)
