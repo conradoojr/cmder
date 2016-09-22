@@ -12,7 +12,8 @@
 
 :: Change the prompt style
 :: Mmm tasty lamb
-@prompt $E[1;32;40m$P$S{git}{hg}$S$_$E[1;30;40m{lamb}$S$E[0m
+@prompt $E[37;44m$P$S{git}$_$E[34;40m{lamb}$S$E[0m
+::@prompt $E[1;32;40m$P$S{git}{hg}$S$_$E[1;30;40m{lamb}$S$E[0m
 
 :: Pick right version of clink
 @if "%PROCESSOR_ARCHITECTURE%"=="x86" (
@@ -69,11 +70,11 @@
 ) else (
     @echo Creating user startup file: "%CMDER_ROOT%\config\user-startup.cmd"
     (
-    @echo :: use this file to run your own startup commands 
+    @echo :: use this file to run your own startup commands
     @echo :: use @ in front of the command to prevent printing the command
-    @echo. 
+    @echo.
     @echo :: @call "%GIT_INSTALL_ROOT%/cmd/start-ssh-agent.cmd
     @echo :: @set PATH=%%CMDER_ROOT%%\vendor\whatever;%%PATH%%
-    @echo. 
+    @echo.
     ) > "%CMDER_ROOT%\config\user-startup.cmd"
 )

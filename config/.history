@@ -2067,3 +2067,427 @@ cd \conrado\
 git clone https://github.com/conradoojr/cmder.git
 ll
 exit
+cd \conrado\
+git clone https://github.com/conradoojr/cmder.git
+ll
+wget
+cd \conrado\cmder\
+git config --global core.autocrlf true
+git add --all
+git commit -m "update"
+git commit -am "Update readme"
+git push origin master
+git commit -am "Update readme" && git push origin master
+git status
+exit
+e.
+cd \conrado\c
+cd \conrado\
+git clone https://github.com/conradoojr/cmder.git
+ll
+exit
+git clone https://github.com/conradoojr/cmder.git
+wget
+cd \conrado\cmder\
+git config --global core.autocrlf true
+git commit -m "update"
+git commit -am "Update readme"
+git commit -am "Update readme" && git push origin master
+git status
+exit
+cd \conrado\
+cd "Program Files\Sublime Text 3\
+cd ..
+cd Users\
+cd Usuario\
+cd AppData\
+cd Roaming\
+cd "Sublime Text 3\
+cd Packages\
+cd User\
+ll
+git add --all
+git commit -m "Update Packages"
+git push origin master
+cd AppData\
+cd Roaming\
+cd "Sublime Text 3\
+cd Packages\
+cd User\
+git commit -m "Update Packages"
+git push origin master
+cdtim
+cd NovoPortalTimFiber\
+git status
+git add --all
+git commit -m "rs7517 - alterações pedidas pós homologacao"
+git push origin rs7517
+vim COMMIT_EDITMSG 
+cd .git\
+ll
+e.
+cd .git\hooks\
+touch prepare-commit-msg
+cd ..
+exit
+cd Roaming\
+cd "Sublime Text 3\
+cd Packages\
+cd User\
+ll
+git add --all
+git commit -m "Update Packages"
+git push origin master
+cd AppData\
+cd Roaming\
+cd "Sublime Text 3\
+cd Packages\
+cd User\
+git commit -m "Update Packages"
+git push origin master
+git commit -m "rs7517 - alterações pedidas pós homologacao"
+vim COMMIT_EDITMSG 
+cd .git\
+ll
+e.
+cd .git\hooks\
+touch prepare-commit-msg
+cd ..
+exit
+cdtim
+cd NovoPortalTimFiber\
+git commit -m "teste de mensagem do commit"
+git revert HEAD~1
+git add
+git add .
+git statu
+gl
+git push origin rs7517
+git add --all
+git commit
+git loh
+git log
+git status
+git log
+cdtim
+cd NovoPortalTimFiber\
+git status
+git add --all
+git commit
+gl
+git push origin rs7517
+git add --all
+git commit
+git log
+git status
+cdtim
+cd NovoPortalTimFiber\
+git loh
+git log
+git add --all
+export GIT_EDITOR='vim +1 +star!'
+SET GIT_EDITOR='vim +1 +star!'
+git status
+git commit
+exit
+export GIT_EDITOR='vim +1 +star!'
+SET GIT_EDITOR='vim +1 +star!'
+cdtim
+cd NovoPortalTimFiber\
+vim foo -c 'star!'
+cd .git
+ll
+vim COMMIT_EDITMSG -c
+vim COMMIT_EDITMSG -c 'star!'
+
+cd ..
+git status
+git commit
+git config --global code.editor "vim +1 +star!"
+exit
+cdtim
+cd NovoPortalTimFiber\
+git status
+git commit
+e.
+exit
+e.
+exit
+cdtim
+cd NovoPortalTimFiber\
+git commit
+git status
+git push origin rs7517
+git branch -d rs7517h
+git push origin --delete rs7517h
+git branch rs7517h
+git checkout rs7517h
+git branch | grep '^\*' | cut -b3-
+gb
+meubranch
+git branch | grep '^\*' | cut -b3-
+gb
+cdtim
+cd NovoPortalTimFiber\
+cat git branch | grep '^\*' | cut -b3- > nomebranch.txt
+git branch | grep '^\*' | cut -b3- > nomebranch.txt
+ll
+meubranch
+cd NovoPortalTimFiber\
+vim foo -c 'star!'
+cd .git
+ll
+vim COMMIT_EDITMSG -c
+vim COMMIT_EDITMSG -c 'star!'
+git status
+git commit
+git config --global code.editor "vim +1 +star!"
+exit
+cdtim
+cd NovoPortalTimFiber\
+git status
+git commit
+e.
+exit
+cdtim
+cd NovoPortalTimFiber\
+git push origin --delete rs7517h
+git branch | grep '^\*' | cut -b3-
+gb
+meubranch
+git branch | grep '^\*' | cut -b3-
+gb
+cat git branch | grep '^\*' | cut -b3- > nomebranch.txt
+git branch | grep '^\*' | cut -b3- > nomebranch.txt
+cdtim
+git reset HEAD nomebranch.txt
+git add --all
+git commit
+git push origin rs7517
+cd .
+cd .git\
+cd hooks\
+touch post-checkout
+chmod 777 post-checkout 
+ll
+git status
+meubranch
+cd ..
+cd NovoPortalTimFiber\
+git chekcout rs7517
+git branch -d rs7517h
+git branch rs7517h
+git checkout rs7517h
+git checkout rs7517
+git pull origin master
+e.
+difftool app\Http\routes.php 
+git difftool app\Http\routes.php 
+exit
+e.
+exit
+cdtim
+cd NovoPortalTimFiber\
+git push origin --delete rs7517h
+git branch | grep '^\*' | cut -b3-
+gb
+meubranch
+git branch | grep '^\*' | cut -b3-
+gb
+cat git branch | grep '^\*' | cut -b3- > nomebranch.txt
+git branch | grep '^\*' | cut -b3- > nomebranch.txt
+cdtim
+git reset HEAD nomebranch.txt
+cd .
+cd .git\
+cd hooks\
+touch post-checkout
+chmod 777 post-checkout 
+meubranch
+git chekcout rs7517
+git pull origin master
+e.
+difftool app\Http\routes.php 
+git difftool app\Http\routes.php 
+exit
+cdtim 
+git merge app/Http/routes.php
+git diff app/Http/routes.php
+!
+git difftool app/Http/routes.php
+git branch -d rs7517h
+git branch rs7517h
+chmod 777 .
+chmod 777 -r ./
+chmod -r 777 ./
+chmod 777 ./
+git pull origin homologacao
+git add --all
+git commit
+cd NovoPortalTimFiber\
+git checkout rs7517
+git status
+git push origin rs7517
+git checkout rs7517h
+git push origin rs7517h
+cd ..
+cd HomologacaoNovoPortalTimFiber\
+ll
+git clone http://git.portaltimfiber.com.br/root/NovoPortalTimFiber.git .
+git checkout homologacao
+git branch
+composer update --disable-tls
+composer update
+php -v
+php -b
+php -v
+php -v
+cdtim
+cd NovoPortalTimFiber\
+git pull origin rs7517
+git checkout .
+git difftool app/Http/routes.php
+git branch -d rs7517h
+git branch rs7517h
+chmod 777 -r ./
+chmod -r 777 ./
+chmod 777 ./
+git pull origin homologacao
+git push origin rs7517h
+ll
+git clone http://git.portaltimfiber.com.br/root/NovoPortalTimFiber.git .
+git checkout homologacao
+git branch
+composer update --disable-tls
+php -v
+php -b
+php -v
+cdtim 
+cd HomologacaoNovoPortalTimFiber\
+composer update
+git pull origin rs7517h
+cd ..
+cd NovoPortalTimFiber\
+git checkout rs7517
+git add --all
+git commit
+git push origin rs7517
+git checkout rs7517h
+git status
+git pull origin rs7517
+chmod 777 .
+git checkout .
+cdtim
+cd HomologacaoNovoPortalTimFiber\
+git status
+cdtim 
+cd HomologacaoNovoPortalTimFiber\
+composer update
+git pull origin rs7517h
+cd ..
+git push origin rs7517
+chmod 777 .
+cdtim
+cd NovoPortalTimFiber\
+git pull origin rs7517
+git add --all
+git commit
+git pull origin homologacao
+git checkout rs7517
+gitk
+git checkout rs7517h
+git checkout .
+git status
+git push origin rs7517h
+exit
+git pull origin rs7517
+git commit
+git pull origin homologacao
+git checkout rs7517
+gitk
+git checkout rs7517h
+git checkout .
+git status
+git push origin rs7517h
+cd \conrado\
+git clone git@github.com:felquis/secret.git
+git clone https://github.com/felquis/secret.git
+cd secret\
+git cat-file -p secret
+cd .git\
+cd ..
+rm -rf secret\
+çç
+ll
+cd "\Users\Usuario\AppData\Roaming\Sublime Text 3\Packages\User\
+git add --all
+git commit -m "Update sublime"
+git push origin master
+exit
+cdtim
+cd NovoPortalTimFiber\
+git status
+git loh
+gl
+cdtim
+cd NovoPortalTimFiber\
+cd NovoPortalTimFiber\
+git status
+git loh
+gl
+cd tim
+cdtim
+ll
+cd HomologacaoNovoPortalTimFiber\
+cd ..
+cd NovoPortalTimFiber\
+echo "\ue0b0"
+echo "\ue0b1"
+vim
+vim
+cdtim
+cd ..
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+
+echo \eu0a0
+echo "\eu0a0"
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd not
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cdtim
+cd NovoPortalTimFiber\
+cd NovoPortalTimFiber\
+cdtim
+cd ..
+cd NovoPortalTimFiber\

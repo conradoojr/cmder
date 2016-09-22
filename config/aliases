@@ -13,3 +13,5 @@ cdtim       =  cd c:\tim\
 
 gb          =   git branch $*
 gs          =   git status $*
+
+meubranch   =   git branch | grep '^\*' | cut -b3- > nomebranch.txt

@@ -1,3 +1,4 @@
+
 -- preamble: common routines
 
 local path = require('path')
@@ -713,35 +714,35 @@ local git_parser = parser(
         "submodule",
         "subtree",
         "svn"..parser({
-		    "init"..parser("-T", "--trunk", "-t", "--tags", "-b", "--branches", "-s", "--stdlayout",
-				"--no-metadata", "--use-svm-props", "--use-svnsync-props", "--rewrite-root",
-				"--rewrite-uuid", "--username", "--prefix"..parser({"origin"}), "--ignore-paths",
-				"--include-paths", "--no-minimize-url"),
-				"fetch"..parser({remotes}, "--localtime", "--parent", "--ignore-paths", "--include-paths",
-				"--log-window-size"),
-				"clone"..parser("-T", "--trunk", "-t", "--tags", "-b", "--branches", "-s", "--stdlayout",
-				"--no-metadata", "--use-svm-props", "--use-svnsync-props", "--rewrite-root",
-				"--rewrite-uuid", "--username", "--prefix"..parser({"origin"}), "--ignore-paths",
-				"--include-paths", "--no-minimize-url", "--preserve-empty-dirs",
-				"--placeholder-filename"),
-				"rebase"..parser({local_or_remote_branches}, {branches}),
-			"dcommit"..parser("--no-rebase", "--commit-url", "--mergeinfo", "--interactive"),
-			"branch"..parser("-m","--message","-t", "--tags", "-d", "--destination", "--username", "--commit-url", "--parents"),
-			"log"..parser("-r", "--revision", "-v", "--verbose", "--limit", "--incremental", "--show-commit", "--oneline"),
-			"find-rev"..parser("--before", "--after"),
-			"reset"..parser("-r", "--revision", "-p", "--parent"),
-			"tag",
-			"blame",
-			"set-tree",
-			"create-ignore",
-			"show-ignore",
-			"mkdirs",
-			"commit-diff",
-			"info",
-			"proplist",
-			"propget",
-			"show-externals",
-			"gc"
+            "init"..parser("-T", "--trunk", "-t", "--tags", "-b", "--branches", "-s", "--stdlayout",
+                "--no-metadata", "--use-svm-props", "--use-svnsync-props", "--rewrite-root",
+                "--rewrite-uuid", "--username", "--prefix"..parser({"origin"}), "--ignore-paths",
+                "--include-paths", "--no-minimize-url"),
+                "fetch"..parser({remotes}, "--localtime", "--parent", "--ignore-paths", "--include-paths",
+                "--log-window-size"),
+                "clone"..parser("-T", "--trunk", "-t", "--tags", "-b", "--branches", "-s", "--stdlayout",
+                "--no-metadata", "--use-svm-props", "--use-svnsync-props", "--rewrite-root",
+                "--rewrite-uuid", "--username", "--prefix"..parser({"origin"}), "--ignore-paths",
+                "--include-paths", "--no-minimize-url", "--preserve-empty-dirs",
+                "--placeholder-filename"),
+                "rebase"..parser({local_or_remote_branches}, {branches}),
+            "dcommit"..parser("--no-rebase", "--commit-url", "--mergeinfo", "--interactive"),
+            "branch"..parser("-m","--message","-t", "--tags", "-d", "--destination", "--username", "--commit-url", "--parents"),
+            "log"..parser("-r", "--revision", "-v", "--verbose", "--limit", "--incremental", "--show-commit", "--oneline"),
+            "find-rev"..parser("--before", "--after"),
+            "reset"..parser("-r", "--revision", "-p", "--parent"),
+            "tag",
+            "blame",
+            "set-tree",
+            "create-ignore",
+            "show-ignore",
+            "mkdirs",
+            "commit-diff",
+            "info",
+            "proplist",
+            "propget",
+            "show-externals",
+            "gc"
         }),
         "symbolic-ref",
         "tag",
@@ -776,3 +777,65 @@ local git_parser = parser(
 )
 
 clink.arg.register_parser("git", git_parser)
+
+
+
+---
+ -- Find out current branch
+ -- @return {false|git branch name}
+---
+function get_git_branch()
+    for line in io.popen("git branch 2>nul"):lines() do
+        local m = line:match("%* (.+)$")
+        if m then
+            return m
+        end
+    end
+
+    return false
+end
+
+
+--- conrado modificacao
+
+local SYMBOL_SEGMENT_SEPARATOR = [['\ue0b0']]
+---
+ -- Get the status of working dir
+ -- @return {bool}
+---
+function get_git_status()
+    return os.execute("git diff --quiet --ignore-submodules HEAD")
+end
+
+function git_prompt_filter()
+
+    -- Colors for git status
+    -- clean = "\x1b[1;37;40m",
+    -- dirty = "\x1b[31;1m",
+    local colors = {
+        clean = "\x1b[34;42m\x1b[30;42m",
+        dirty = "\x1b[34;43m\x1b[30;43m",
+    }
+
+    local branch = get_git_branch()
+    if branch then
+        -- Has branch => therefore it is a git folder, now figure out status
+        if get_git_status() then
+            -- clean
+            color = colors.clean
+            clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[32;40m")
+        else
+            -- dirty
+            color = colors.dirty
+            clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[33;40m")
+        end
+
+        return true
+    end
+
+    -- No git present or not in git file
+    clink.prompt.value = string.gsub(clink.prompt.value, "{git}", " \x1b[34;40m")
+    return false
+end
+
+clink.prompt.register_filter(git_prompt_filter, 50)
