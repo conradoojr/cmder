@@ -15,3 +15,4 @@ gb          =   git branch $*
 gs          =   git status $*
 
 meubranch   =   git branch | grep '^\*' | cut -b3- > nomebranch.txt
+branches     =  cat C:\conrado\cmder\bin\branches.sh | bash
