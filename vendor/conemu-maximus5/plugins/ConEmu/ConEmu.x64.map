@@ -1,6 +1,6 @@
  ConEmu.x64
 
- Timestamp is 57fbd39d (Mon Oct 10 20:45:01 2016)
+ Timestamp is 580beea2 (Sun Oct 23 01:56:34 2016)
 
  Preferred load address is 0000000180000000
 
@@ -3640,7 +3640,6 @@
  0002:00001b68       ??_C@_1O@BBPMHPCD@?$AAp?$AAr?$AAi?$AAn?$AAt?$AA?$CI?$AA?$AA@ 0000000180082b68     ConEmuPlugin1900.obj
  0002:00001b78       ??_C@_19JPEEHMMI@?$AA?5?$AA?7?$AA?$AN?$AA?6?$AA?$AA@ 0000000180082b78     ConEmuPlugin1900.obj
  0002:00001b88       ??_C@_1BC@OLJIBFPH@?$AA?0?$AA?5?$AAH?$AAi?$AAn?$AAt?$AA?3?$AA?5?$AA?$AA@ 0000000180082b88     ConEmuPlugin1900.obj
- 0002:00001b9c       ??_C@_13FNCBLAIF@?$AAa?$AA?$AA@ 0000000180082b9c     ConEmuPlugin1900.obj
  0002:00001ba0       ??_C@_1BCK@MAAKAKN@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA?5?$AAi?$AAn?$AA?5?$AAM?$AAa?$AAc?$AAr?$AAo?$AA?4?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AA?$CF?$AAu?$AA?4?$AA?$CF?$AAu?$AA?5?$AAb?$AAu?$AAi?$AAl?$AAd?$AA?5@ 0000000180082ba0     ConEmuPlugin1900.obj
  0002:00001cd0       ??_C@_1OK@GOJADEAC@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA?5?$AAi?$AAn?$AA?5?$AAM?$AAa?$AAc?$AAr?$AAo?$AA?4?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AA?$CF?$AAu?$AA?4?$AA?$CF?$AAu?$AA?5?$AAb?$AAu?$AAi?$AAl?$AAd?$AA?5@ 0000000180082cd0     ConEmuPlugin1900.obj
  0002:00001dc0       ??_C@_0BF@MFOIGNA@BackgroundMacroError?$AA@ 0000000180082dc0     ConEmuPlugin1900.obj
@@ -3895,8 +3894,8 @@
  0002:00005410       ??_C@_0BM@HLJJNPAH@InitializeConditionVariable?$AA@ 0000000180086410     LIBCMT:thread_safe_statics.obj
  0002:00005430       ??_C@_0BJ@JEBJOJFJ@SleepConditionVariableCS?$AA@ 0000000180086430     LIBCMT:thread_safe_statics.obj
  0002:00005450       ??_C@_0BJ@PGPPEPCC@WakeAllConditionVariable?$AA@ 0000000180086450     LIBCMT:thread_safe_statics.obj
- 0002:00005470       _pRawDllMain               0000000180086470     LIBCMT:dll_dllmain.obj
  0002:00005470       _pDefaultRawDllMain        0000000180086470     LIBCMT:dll_dllmain.obj
+ 0002:00005470       _pRawDllMain               0000000180086470     LIBCMT:dll_dllmain.obj
  0002:00005498       ??_C@_1BC@DNHGCMLG@?$AAa?$AAd?$AAv?$AAa?$AAp?$AAi?$AA3?$AA2?$AA?$AA@ 0000000180086498     libvcruntime:winapi_downlevel.obj
  0002:000054b0       ??_C@_1DM@KHCHBNEB@?$AAa?$AAp?$AAi?$AA?9?$AAm?$AAs?$AA?9?$AAw?$AAi?$AAn?$AA?9?$AAc?$AAo?$AAr?$AAe?$AA?9?$AAf?$AAi?$AAb?$AAe?$AAr?$AAs?$AA?9?$AAl?$AA1?$AA?9?$AA1?$AA?9?$AA1?$AA?$AA@ 00000001800864b0     libvcruntime:winapi_downlevel.obj
  0002:000054f0       ??_C@_1DK@LPPGFMPP@?$AAa?$AAp?$AAi?$AA?9?$AAm?$AAs?$AA?9?$AAw?$AAi?$AAn?$AA?9?$AAc?$AAo?$AAr?$AAe?$AA?9?$AAs?$AAy?$AAn?$AAc?$AAh?$AA?9?$AAl?$AA1?$AA?9?$AA2?$AA?9?$AA0?$AA?$AA@ 00000001800864f0     libvcruntime:winapi_downlevel.obj

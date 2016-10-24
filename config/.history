@@ -3902,3 +3902,121 @@ ls -la
 cdtim
 cd NovoPortalTimFiber\
 branches
+ls -la
+cd c:\conrado\
+cd cmder\
+git status
+git add --all
+git commit -m "Adicao do branches como alias"
+git push origin master
+cdtim
+cd NovoPortalTimFiber\
+e.
+php artisan
+git push origin master
+e.
+php artisan
+cdtim
+cd NovoPortalTimFiber\
+php artisan make:controller STR/CasesController
+php artisan make:model DmGroupsAttendanceModel
+php artisan make:model DmMotiveAttendance
+php artisan make:model DmMotiveAttendanceModel
+php artisan make:model DmGroupAttendanceMotiveAttendanceModel
+php artisan make:model Models\STR\DmAreaOffendingModel
+php artisan make:model Models\STR\DmModalityModel
+php artisan make:model Models\STR\DmMotiveModalityModel
+php artisan make:model Models\STR\DmProductModel
+php artisan make:model Models\STR\DmStatusModel
+php artisan make:model Models\STR\CasesModel
+php artisan make:model Models\STR\CasesClientsGroupModel
+php artisan make:model Models\STR\FupModel
+branches
+git branch
+php artisan make:model Models\SiebelInteractionModel
+php artisan make:model Models\SiebelOrderModel
+git status
+cd ..
+cd teste\
+mkdir php-crawler
+cd php-crawler\
+npm -v
+ll
+nodejs -v
+node -v
+nodejs -v
+node
+nodejs
+nodejs
+node
+cdtim
+cd t
+cd teste\php-crawler\
+npm install phantomjs
+ls -la
+rm -rf node_modules\
+ll
+npm install -g phantomjs
+npm instal casperjs -g
+npm install -g casperjs
+caperjs
+cdtim
+cd teste\
+cd php-crawler\
+casperj -v
+casperjs -v
+python
+mkdir php-crawler
+cd php-crawler\
+npm -v
+ll
+nodejs -v
+node -v
+nodejs -v
+node
+nodejs
+nodejs
+node
+cdtim
+cd t
+npm install phantomjs
+ls -la
+rm -rf node_modules\
+npm install -g phantomjs
+npm instal casperjs -g
+npm install -g casperjs
+caperjs
+casperj -v
+python
+cdtim
+cd teste\
+cd php-crawler\
+casperjs -v
+phantomjs --version
+casperjs --version
+composer require phpcasperjs/phpcasperjs
+cd vendor\
+ll
+vim index.php
+php index.php 
+php index.php && ls -la
+php index.php
+cd NovoPortalTimFiber\
+git status
+e,
+e.
+cd ..
+cd teste\php-crawler\
+e,
+cd ..
+cd teste\php-crawler\
+php 
+cdtim
+cd teste\
+cd php-crawler\
+ll
+e.
+php -h
+php -a date()
+php -a 'date()'
+php index.php 
