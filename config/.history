@@ -4020,3 +4020,117 @@ php -h
 php -a date()
 php -a 'date()'
 php index.php 
+php -a date()
+php -a 'date()'
+php index.php 
+cdtim
+l
+mkdir homologacao
+cd homologacao\
+git clone http://192.168.1.2/root/NovoPortalTimFiber.git .
+ll
+git checkout homologacao
+git delete vendor\composer\autoload_classmap.php 
+git rm vendor\composer\autoload_classmap.php 
+git add --all
+ls -la
+e.
+git commit -m "Remocao do autoload_classmap.php"
+composer install
+git status
+git push origin homologacao
+cd..
+rm -rf homologacao\
+cdtim
+cd NovoPortalTimFiber\
+git commit
+exit
+rm -rf homologacao\
+exit
+cdtim
+dc NovoPortalTimFiber
+cd NovoPortalTimFiber\
+git status
+git add --all
+git commit
+git pull origin master
+php index.php 
+php index.php && ls -la
+php index.php
+cd NovoPortalTimFiber\
+git status
+e,
+e.
+cd ..
+cd teste\php-crawler\
+e,
+cd ..
+cd teste\php-crawler\
+php 
+cdtim
+cd teste\
+cd php-crawler\
+ll
+e.
+php -h
+php -a date()
+php -a 'date()'
+php index.php 
+php -a date()
+php -a 'date()'
+php index.php 
+cdtim
+l
+mkdir homologacao
+cd homologacao\
+git clone http://192.168.1.2/root/NovoPortalTimFiber.git .
+git checkout homologacao
+git delete vendor\composer\autoload_classmap.php 
+git rm vendor\composer\autoload_classmap.php 
+git add --all
+git commit -m "Remocao do autoload_classmap.php"
+git status
+git push origin homologacao
+cd..
+rm -rf homologacao\
+cdtim
+cd NovoPortalTimFiber\
+git commit
+exit
+rm -rf homologacao\
+dc NovoPortalTimFiber
+file bi
+ll
+file -bi app\Routes\Logged_PortalDeGravacoes.php 
+file -help
+file -mime-encoding *
+file -mime-encoding server.php 
+file --mime-encoding server.php 
+file --mime-type server.php 
+ls -la
+aa.sh
+file -bi *
+file -bi server.php 
+file -bi app\Http\routes.php 
+git branches
+git pull origin master
+git checkout ,
+git checkout rs7630
+branches
+composer install
+git checkout rs7494
+git checkout master
+git checkout rs7630 
+git checkou .
+git checkout .
+git add --all
+git commit
+wget http://localhost:81/str/exportar c:\Users\Admin\Desktop\aaa.xlsx
+e.
+cd c:\Users\Admin\Desktop\aaa.xlsx
+cd c:\Users\Admin\Desktop\
+wget http://localhost:81/str/exportar
+cdtim
+cd NovoPortalTimFiber\
+git status
+exit
