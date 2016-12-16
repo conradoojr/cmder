@@ -9,10 +9,13 @@ unalias     =   alias /d $1
 which       =   where $*
 
 subl        =   "C:\Program Files\Sublime Text 3\sublime_text.exe" $*
-cdtim       =  cd c:\tim\
+cdtim       =   cd c:\tim\
 
 gb          =   git branch $*
 gs          =   git status $*
 
 meubranch   =   git branch | grep '^\*' | cut -b3- > nomebranch.txt
-branches     =  cat C:\conrado\cmder\bin\branches.sh | bash
+branches    =   cat C:\conrado\cmder\bin\branches.sh | bash
+
+t-br         =   transl pt-br $*
+t-en         =   transl en-US $*
