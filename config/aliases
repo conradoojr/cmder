@@ -19,3 +19,5 @@ branches    =   cat C:\conrado\cmder\bin\branches.sh | bash
 
 t-br         =   transl pt-br $*
 t-en         =   transl en-US $*
+
+crrm         =   casperjs --ignore-ssl-errors=yes c:\tim\teste\leitor-crrm\robo.js $*
