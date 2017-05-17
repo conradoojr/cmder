@@ -17,7 +17,9 @@ gs          =   git status $*
 meubranch   =   git branch | grep '^\*' | cut -b3- > nomebranch.txt
 branches    =   cat C:\conrado\cmder\bin\branches.sh | bash
 
-t-br         =   transl pt-br $*
-t-en         =   transl en-US $*
+t-br         =   getme t -f en-pt -t $*
+t-en         =   getme t -f pt-en -t $*
 
 crrm         =   casperjs --ignore-ssl-errors=yes c:\tim\teste\leitor-crrm\robo.js $*
+
+phploc       =   php C:\tim\teste\phploc\phploc.phar $*

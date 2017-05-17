@@ -16,11 +16,10 @@ end
 local modules = matchers.create_dirs_matcher('node_modules/*')
 local cached_modules = matchers.create_dirs_matcher(get_npm_cache_location()..'/*')
 
--- Reads package.json in current directory and extracts all "script" commands defined 
+-- Reads package.json in current directory and extracts all "script" commands defined
 local function scripts(token)
 
     local matches = {}
-
     -- Read package.json first
     local package_json = io.open('package.json')
     -- If there is no such file, then close handle and return
@@ -28,7 +27,7 @@ local function scripts(token)
         package_json:close()
         return matches
     end
-    
+
     -- Read the whole file contents
     local package_contents = package_json:read("*a")
     package_json:close()

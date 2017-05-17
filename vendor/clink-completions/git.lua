@@ -795,6 +795,16 @@ function get_git_branch()
     return false
 end
 
+---
+ -- Find out description current branch
+ -- @return {false|git branch name}
+---
+function get_git_branch_description(cbranch)
+    for line in io.popen("git config branch."..cbranch..".description"):lines() do
+        return line
+    end
+end
+
 
 --- conrado modificacao
 
@@ -819,15 +829,26 @@ function git_prompt_filter()
 
     local branch = get_git_branch()
     if branch then
+        local description_branch = get_git_branch_description(branch)
         -- Has branch => therefore it is a git folder, now figure out status
         if get_git_status() then
             -- clean
             color = colors.clean
-            clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[32;40m")
+            if description_branch then
+                clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." :: "..description_branch.." \x1b[32;40m")
+            else
+                clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[32;40m")
+            end
         else
             -- dirty
             color = colors.dirty
-            clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[33;40m")
+
+            if description_branch then
+                clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." :: "..description_branch.." \x1b[32;40m")
+            else
+                clink.prompt.value = string.gsub(clink.prompt.value, "{git}", color.."  "..branch.." \x1b[32;40m")
+            end
+
         end
 
         return true
