@@ -23,3 +23,4 @@ t-en         =   getme t -f pt-en -t $*
 crrm         =   casperjs --ignore-ssl-errors=yes c:\tim\teste\leitor-crrm\robo.js $*
 
 phploc       =   php C:\tim\teste\phploc\phploc.phar $*
+
